@@ -1,0 +1,10 @@
+{
+  "name": "nw-example",
+  "version": "0.0.0",
+  "main": "m.js",
+  "dependencies": {
+    "chalk": "latest"
+  },
+  "author": "Thomas Hansen",
+  "license": "BSD-2-Clause"
+}
